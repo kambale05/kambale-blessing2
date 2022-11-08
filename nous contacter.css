@@ -26,6 +26,7 @@ p{
 }
 
 .drive{
+    color: aliceblue;
     width: 650px;
     position: absolute;
     top: 35%;
@@ -42,7 +43,7 @@ p{
 }
 
 .container{
-    width: 500px;
+    width: 200px;
     height: 75vh;
     background-color: rgb(6, 31, 41);
     border-color: rgb(20, 1, 1);
@@ -52,4 +53,17 @@ p{
     left: 50%;
     margin-left: 180px;
     size: 300px;
+}
+
+.nous p{
+    color: aqua;
+    width: 650px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    text-align: center;
+    line-height: 26px;
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 20px;
 }
